@@ -1,0 +1,17 @@
+# Chess Puzzle Generator
+
+This is a web-based chess puzzle generator where users can select chess pieces and provide a board position using FEN notation. The app then searches for forced mate-in-2 or mate-in-3 solutions and displays the solution with the move sequence on an interactive chessboard.
+
+## Features
+
+- Accepts any valid chess position via FEN notation.
+- Allows selection of one or more chess pieces to focus the search.
+- Automatically finds forced checkmates in 2 or 3 moves, if available.
+- Displays the solving move sequence visually on a chessboard.
+
+## Tech Stack
+
+- Streamlit for the web interface.
+- python-chess for board representation and move generation.
+- Minimax algorithm with alpha-beta pruning for move search and mate detection.
+- chess.svg for rendering the board.
