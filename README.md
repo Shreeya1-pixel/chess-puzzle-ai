@@ -15,3 +15,7 @@ This is a web-based chess puzzle generator where users can select chess pieces a
 - python-chess for board representation and move generation.
 - Minimax algorithm with alpha-beta pruning for move search and mate detection.
 - chess.svg for rendering the board.
+<img width="3392" height="1943" alt="image" src="https://github.com/user-attachments/assets/566971dd-1bad-4b70-8adc-023bf8a17626" />
+<img width="3395" height="1950" alt="image" src="https://github.com/user-attachments/assets/758a7656-56e8-431b-a787-973143eb870c" />
+<img width="3393" height="1949" alt="image" src="https://github.com/user-attachments/assets/a3d1331b-d79e-41a0-86f0-4200f6ab28c5" />
+
